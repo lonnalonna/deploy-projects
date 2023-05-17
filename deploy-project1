@@ -1,0 +1,9 @@
+ once in a while we need to do a complete inventory of server and this is a manual effort.
+    write a script to help automate this:
+     These are some of the things that we usually check on a machine:
+      - os version
+      - kernel version
+      - number of cpus
+      - total memory
+      - if the system is 64 bit or 32
+      - os type
